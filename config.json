@@ -4,8 +4,8 @@
   "documentation": "documentation",
   "assets"       : "assets",
   "app_assets"   : "app-assets",
-  "assets_path"       : "../../../assets",
-  "app_assets_path"   : "../../../app-assets",
+  "assets_path"       : "https://erfancdn.blob.core.windows.net/admin-template/assets",
+  "app_assets_path"   : "https://erfancdn.blob.core.windows.net/admin-template/app-assets",
   "destination": {
     "js"     : "app-assets/js",
     "css"    : "app-assets/css",
